@@ -52,7 +52,7 @@ class _ProdutosState extends State<Produtos> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFF121212), // mais escuro
+      backgroundColor: const Color(0xFF121212), 
       body: Padding(
         padding: const EdgeInsets.all(20),
         child: Column(
